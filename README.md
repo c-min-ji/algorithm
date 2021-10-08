@@ -17,3 +17,5 @@
 ## 2. Greedy
 
 ---
+
+[Greedy Info.](./Greedy/README.md)
