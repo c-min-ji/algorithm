@@ -3,7 +3,7 @@
 1. [Git commit Voca.](#git-commit-voca.)
 2. [Greedy](#Greedy)
 
----
+
 
 ## 1. Git commit voca. 
 
@@ -12,10 +12,10 @@
 2. 파일 업데이트: [UPDATE]<br>
 3. 파일 삭제: [DELETE]<br>
 
----
+
 
 ## 2. Greedy
 
 
 
-[Greedy Info.](./Greedy/README.md)
+[Greedy Info.](./Greedy/README.md)<br>
