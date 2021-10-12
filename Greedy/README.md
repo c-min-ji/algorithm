@@ -15,4 +15,6 @@ min() 함수만 사용하는 방법
 >[숫자 카드 놀이 02](./Number_Card_Game02.py)<br>
 이중 for문을 사용하는 방법
 
->[1이 될때까지 01](./to_number_one.py)
+>[1이 될때까지 01](./to_number_one.py)<br>
+N/k 혹은 n-1을 해서 1이 될때까지 연산하기<br>
+>[1이 될때까지 02](./to_number_one02.py)<br>
