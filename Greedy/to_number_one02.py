@@ -10,10 +10,10 @@ def solution():
         if n<k: #위 과정을 거쳐서 k가 n보다 크면 while문 종료
             break
 
-        result += 1
-        n//=k
+        result += 1 #k에 횟수 1 더하기
+        n//=k 
 
-    result += (n-1)
+    result += (n-1) #마지막 남은 수 1씩 빼기
     return result
 
 print(solution())
