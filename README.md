@@ -2,7 +2,7 @@
 
 1. [Git commit Voca.](#git-commit-voca.)
 2. [Greedy](#Greedy)
-3. [Implementation]#(Implementation)
+3. [Implementation](#Implementation)
 
 
 ## 1. Git commit voca. 
