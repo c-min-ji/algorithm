@@ -1,3 +1,4 @@
+#for & min()을 사용하는 코드
 def solution():
     N, M = map(int, input().split()) # 행, 열 입력 받음 cf. 행 = ㅡ, 열 = ㅣ
 
