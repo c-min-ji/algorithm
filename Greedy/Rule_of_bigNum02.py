@@ -9,14 +9,14 @@ def solution():
     first_bNum = num_list[n-1] # 정렬 후 제일 큰 수를 찾음(정렬했으니까 제일 큰 수는 맨 뒤)
     second_bNum = num_list[n-2] # 정렬 후 두 번째 큰 수를 찾음(정렬했으니까 두 번째 큰 수는 맨 뒤에서 하나 앞)
 
-    count = int(m/(k+1))*k # 숫자를 대입해 보면 더 쉽게 이해 가능. 
-    #같은 수를 반복해서 더할 수 있는 횟수 k 에 그 다음 작은 수를 더하니까 +1을 해준다. 그리고 총 더하는 횟수인 m이랑 나눠서 몫을 구한다. 여기에 k를 곱한다.. ?
-    count += m%(k+1) # count에 나머지를 더한다..?아 나눠떨어지지않는 경우의 수다...
+    count = int(m/(k+1))*k # 숫자를 대입해 보면 더 쉽게 이해 가능. 패턴이 큰수를 K번 더하고 두번째로 작은 수를 한 번 더해주는 것! 그래서 K+1인데 이걸 M이랑 나뭐서 몫을 K번 반복해야하니까 곱한다! 
+    #예를 들어서 M이 11이고 k가 4면 11/(5) * 5 => 2*10 앞에 2는 패턴이 몇번 반복되는 가를 알려줌!
+    count += m%(k+1) # count에서 만약 k가 4이고 M이 11이면 애매하게 4번씩 반복을 못 할 수도 있는데 이때 m%(k+1) 식을 이용하면 1이 나온다. 그러면 큰 수를 1번 더 더할 수 있는 것!
     
     result = 0
-    result += (count)*first_bNum
-    result += (m-count)*second_bNum
+    result += (count)*first_bNum #큰 수 * 큰 수 더할 수 있는 횟수
+    result += (m-count)*second_bNum #두번째로 큰 수 * 두번째로 큰 수 더할 수 있는 횟수
 
     return(result)
 
-print(solution())
+print(solution()).
