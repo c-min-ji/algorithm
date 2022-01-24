@@ -19,5 +19,4 @@
 
 ## 3. Implementation
 
-🥵 공부중👩🏻‍💻
 [Implementation Info.](./Implementation/README.md)<br>
