@@ -20,4 +20,4 @@
 ## 3. Implementation
 
 🥵 공부중👩🏻‍💻
-[]()<br>
+[Implementation Info.](./Implementation/README.md)<br>
