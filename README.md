@@ -1,6 +1,6 @@
 # 목차
 
-1. [Git commit Voca.](#1-git-commit-voca.)
+1. [Git commit Voca.](#1-git-commit-voca)
 2. [Greedy](#2-Greedy)
 3. [Implementation](#3-Implementation)
 4. [DFS/BFS](#4-dfsbfs)
