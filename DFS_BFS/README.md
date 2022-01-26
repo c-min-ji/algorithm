@@ -81,3 +81,14 @@ def factorial2(n):
     return 1
   return n*factorial2(n-1)
 ```
+-----
+<br>
+
+## DFS
+__정의__<br>
+깊이 우선 탐색(Depth-First Search)<br>
+특정한 경로를 탐색하다가 특정한 상황에서 최대한 깊숙이 들어가 노드 방문 후, 다시 도라가 다른 경로를 탐색하는 알고리즘<br>
+
+
+__*POINT*__<br>
+인접한 노드 중 방문하지 않은 노드가 여러 개 있다면 번호가 낮은 순서부터 처리
