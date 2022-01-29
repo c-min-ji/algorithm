@@ -24,3 +24,33 @@ for i in range(len(array)): #array[i]와 array[min_index] 계속 비교하면서
 print(array) #=> [1,3,4,5,6,7]
 ```
 
++) 스와프 코드
+```python 
+array = [3,5]
+array[0], array[1] = array[1],array[0]
+
+#=> array = [5,3]
+```
+
+#### 선택 정렬의 시간 복잡도: O(N^3)
+선택 정렬은 알고리즘에 사용하기에는 느린 편<br>
+<hr>
+
+## 선택 정렬
+특정한 데이터를 적절한 위치에 '삽입'한다는 의미<br>
+
+### 알고리즘
+선택 정렬은 맨 처음 데이터는 정렬되었다는 가정 하에 시작하기에 2번째 데이터부터 확인한다. 
+
+```python
+array = [7,5,9,0,3,1,6,2,4,8]
+
+for i in range(1, len(array)):
+  for j in range(i, 0, -1): #맨 앞부터 훑음
+    if array[j]<array[j-1]:
+      array[j], array[j-1] = array[j-1], array[j]
+    else:
+      break
+print(array) #=> [1,3,4,5,6,7,8,9,0]
+```
+
