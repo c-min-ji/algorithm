@@ -4,7 +4,7 @@
 2. [Greedy](#2-Greedy)
 3. [Implementation](#3-Implementation)
 4. [DFS/BFS](#4-dfsbfs)
-
+5. [Sorting](#5-sorting)
 
 ## 1. Git commit voca. 
 
@@ -26,3 +26,8 @@
 ## 4. DFS/BFS
 
 [DFS/BFS Info.](./DFS_BFS/README.md)<br>
+
+
+## 5. Sorting
+
+[Sorting Info.](./Sorting/README.md)<br>
