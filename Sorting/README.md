@@ -184,7 +184,8 @@ print(result) #=> [('banana',2),('carrot',3),('apple',5)]
 >__point__<br>
 >sorted() 사용
 
-### 연습 문제
+<br>
+
 [2. 성적이 낮은 순서로 학생 출력하기](./student.py)
 
 > __문제 설명__<br>
@@ -192,8 +193,8 @@ print(result) #=> [('banana',2),('carrot',3),('apple',5)]
 
 >__point__<br>
 >sorted() 사용
+<br>
 
-### 연습 문제
 [3. 두 배열의 원소 교체](./change.py)
 
 > __문제 설명__<br>
