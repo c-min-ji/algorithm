@@ -1,21 +1,13 @@
 ## 이진 탐색
+배열 내부 데이터가 정렬되어 있어야만 사용 가능
 
-### 순차 탐색
+### [순차 탐색](./Sequqential_Search.py)
 앞에서 부터 순차적으로 탐색<br>
 
-```python
-def sequential(n, target, array):
-  for i in range(n):
-    if array[i]==target:
-      return i+1
-      
-print("생성할 원소 개수를 입력한 다음 한 칸을 띄고 찾을 문자열을 입력하시오.")
+#### 순차 탐색의 시간 복잡도: O(N) =>최악의 경우
 
-input_data = input().split()
-n = int(input_data[0])
-tartget = input_data[1]
 
-print("앞서 적은 원소 개수만크 문자열을 입력하시오. 구분은 띄어쓰기로 합니다.")
-array = input().split()
+### 반으로 쪼개면서 탐색
+위치를 나타내는 변수 3개 시작점, 중간점, 끝점을 정한다.
 
-print(sequential(n, target, array)
+[재귀함수로 구현](./)
