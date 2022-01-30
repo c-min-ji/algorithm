@@ -5,6 +5,7 @@
 3. [Implementation](#3-Implementation)
 4. [DFS/BFS](#4-dfsbfs)
 5. [Sorting](#5-sorting)
+6. [Binary Search](#6-binary-search)
 
 ## 1. Git commit voca. 
 
@@ -31,3 +32,8 @@
 ## 5. Sorting
 
 [Sorting Info.](./Sorting/README.md)<br>
+
+
+## 6. Binary Search
+
+[Binary Search Info.](./Binary_Search/README.md)<br>
