@@ -1,17 +1,18 @@
 # 목차
 
 1. [Git commit Voca.](#1-git-commit-voca)
-2. [Greedy](#2-Greedy)
-3. [Implementation](#3-Implementation)
+2. [Greedy](#2-greedy)
+3. [Implementation](#3-implementation)
 4. [DFS/BFS](#4-dfsbfs)
 5. [Sorting](#5-sorting)
 6. [Binary Search](#6-binary-search)
 
 ## 1. Git commit voca. 
 
-1. 새로운 파일 생성: [CREATE]<br>
-2. 파일 업데이트: [UPDATE]<br>
-3. 파일 삭제: [DELETE]<br>
+1. 새로운 파일 생성: Create<br>
+2. 파일 업데이트: Update<br>
+3. 파일 삭제: Delete<br>
+4. 파일 제목 수정: Rename<br>
 
 
 ## 2. Greedy
@@ -37,3 +38,8 @@
 ## 6. Binary Search
 
 [Binary Search Info.](./Binary_Search/README.md)<br>
+
+
+## 7. Dynamic Programming
+
+[Dynamic Programming Info.](./Dynamic_Programming/README.md)<br>
