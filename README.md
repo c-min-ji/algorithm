@@ -6,6 +6,7 @@
 4. [DFS/BFS](#4-dfsbfs)
 5. [Sorting](#5-sorting)
 6. [Binary Search](#6-binary-search)
+7. [Dynamic Programming](#7-dynamic-programming)
 
 ## 1. Git commit voca. 
 
