@@ -81,3 +81,7 @@ print(d[n])
 
 [4. 효율적인 화폐 구성](./money.py)
 > __설명__ <br> n가지 종류의 화폐로 m원을 만들 수 있는 가장 작은 화폐 개수를 구하여라.
+
+
+#### 참고 문제
+[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
