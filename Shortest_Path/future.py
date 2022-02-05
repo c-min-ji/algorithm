@@ -19,4 +19,11 @@ x, k = map(int, input().split())
 for k in range(1, n+1):
   for a in range(1, n+1):
     for b in range(1, n+1):
-      graph[a][b] = min(gr
+      graph[a][b] = min(graph[a][b], graph[a][k]+graph[k][b])
+      
+distance = graph[1][k]+graph[k][x]
+
+if distabce>=inf:
+  print("-1")
+else:
+  print(distance)
