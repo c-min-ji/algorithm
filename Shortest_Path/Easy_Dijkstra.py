@@ -30,3 +30,15 @@ def dijkstra(start):
   for i in range(n-1):
     now = get_smallest_node()
     visited[now] = True
+    for j in graph[now]:
+      cost = distance[now]+j[i]
+      if cost<distance[j[0]]:
+        distance[j[0]] = cost
+    
+dijkstra(start)
+
+for i in range(1, n+1):
+  if distance[i] == inf:
+    print("INFINITY")
+  else:
+    print(distance[i])
