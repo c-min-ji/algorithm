@@ -7,6 +7,8 @@
 5. [Sorting](#5-sorting)
 6. [Binary Search](#6-binary-search)
 7. [Dynamic Programming](#7-dynamic-programming)
+8. [Etc Graph](#8-etc-graph)
+9. [Example Problem](#9-ex-problem)
 
 ## 1. Git commit voca. 
 
@@ -44,3 +46,6 @@
 ## 7. Dynamic Programming
 
 [Dynamic Programming Info.](./Dynamic_Programming/README.md)<br>
+
+## 8. Etc Graph
+[Etc Graph Info.](./Etc_Graph/README.md)<br>
