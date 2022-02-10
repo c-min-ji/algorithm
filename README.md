@@ -8,7 +8,7 @@
 6. [Binary Search](#6-binary-search)
 7. [Dynamic Programming](#7-dynamic-programming)
 8. [Etc Graph](#8-etc-graph)
-9. [Example Problem](#9-ex-problem)
+9. [Example Problem](#9-example-problem)
 
 ## 1. Git commit voca. 
 
@@ -47,5 +47,12 @@
 
 [Dynamic Programming Info.](./Dynamic_Programming/README.md)<br>
 
+
 ## 8. Etc Graph
+
 [Etc Graph Info.](./Etc_Graph/README.md)<br>
+
+
+## 9. Example Problem
+
+[Example Problem Info.](./Example_Problem/README.md)<br>
