@@ -13,3 +13,6 @@ n개의 돈으로 만들 수 없는 최소 금액을 구하시오.<br>
 
 [5. 볼링공 고르기](./pick_ball.py)<br>
 n가지의 m 무게의 공이 있을 때 두 명이 무게가 서로 다른 공을 고를 수 있는 경우의 수를 구하시오.<br>
+
+[6. 무지의 먹방 라이브](./mukbang.py)<br>
+[링크 참조!](https://programmers.co.kr/learn/courses/30/lessons/42891)
