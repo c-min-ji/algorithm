@@ -16,3 +16,8 @@ n가지의 m 무게의 공이 있을 때 두 명이 무게가 서로 다른 공�
 
 [6. 무지의 먹방 라이브](./mukbang.py)<br>
 [링크 참조!](https://programmers.co.kr/learn/courses/30/lessons/42891)
+
+
+## Implementation
+[1. 럭키 스트레이트](./lucky.py)<br>
+주어진 점수의 자리수로 반으로 나누어 오른쪽 점수와 왼쪽 점수의 각 자리수 합이 동일하면 LUCKY 출력, 다르면 READY 출력하시오.<br>
