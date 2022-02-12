@@ -25,5 +25,5 @@ n가지의 m 무게의 공이 있을 때 두 명이 무게가 서로 다른 공�
 [2. 문자열 재정렬](.sorted_str.py)<br>
 알파벳 대문자와 숫자(0-9)로 이루어진 문자열을 알파벳 오름차순으로, 숫자는 전부 더해서 맨뒤에 출력하시오.<br>
 
-[9. 문자열 압축](/short_str.py)<br>
+[3. 문자열 압축](/short_str.py)<br>
 [링크 참조!](https://programmers.co.kr/learn/courses/30/lessons/60057)<br>
