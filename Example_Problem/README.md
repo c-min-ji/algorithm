@@ -27,3 +27,6 @@ n가지의 m 무게의 공이 있을 때 두 명이 무게가 서로 다른 공�
 
 [3. 문자열 압축](./short_str.py)<br>
 [링크 참조!](https://programmers.co.kr/learn/courses/30/lessons/60057)<br>
+
+[4. 자물쇠와 열쇠](./key.py)<br>
+[링크 참조!](https://programmers.co.kr/learn/courses/30/lessons/60059)<br>
