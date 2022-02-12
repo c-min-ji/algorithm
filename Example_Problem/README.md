@@ -1,7 +1,7 @@
 # 목차
-[Greedy](./README.md#greedy)<br>
-[Implementation](./README.md#implementation)<br>
-[DFS/BFS](./README.md#dfsbfs)
+ * [Greedy](./README.md#greedy)<br>
+ * [Implementation](./README.md#implementation)<br>
+ * [DFS/BFS](./README.md#dfsbfs)
 
 ## Greedy
 [1. 모험가 길드](./adventure.py)<br>
