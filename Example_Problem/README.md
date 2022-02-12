@@ -1,3 +1,8 @@
+# 목차
+[Greedy](./README.md#greedy)<br>
+[Implementation](./README.md#implementation)<br>
+[DFS/BFS](./README.md#dfsbfs)
+
 ## Greedy
 [1. 모험가 길드](./adventure.py)<br>
 모험자 n명이 모험을 떠나는데 공포도가 x인 사람은 x명의 사람과 그룹을 이루어 모험을 떠나야 합니다. 모험을 떠날 수 있는 최대 그룹의 수를 구하시오.<br>
@@ -42,3 +47,8 @@ n가지의 m 무게의 공이 있을 때 두 명이 무게가 서로 다른 공�
 
 [8. 외벽 점검](./wall.py)<br>
 [링크 참조!](https://programmers.co.kr/learn/courses/30/lessons/60062)
+
+
+## DFS/BFS
+[1. 특정 거리의 도시 찾기](./find_city.py)<br>
+N개의 도시와 M개의 거리가 1인 단방향 도로가 존재. 도시 X에서 출발해 도달할 수 있는 도시 중 최단 거리가 정확히 K인 도시의 번호를 출력하시오.
