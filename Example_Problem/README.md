@@ -36,3 +36,6 @@ n가지의 m 무게의 공이 있을 때 두 명이 무게가 서로 다른 공�
 
 [6. 기둥과 보 설치](./pillar.py)<br>
 [링크 참조!](https://programmers.co.kr/learn/courses/30/lessons/60061)<br>
+
+[7. 치킨 배달](./chicken.py)<br>
+치킨 집을 줄여서 최대 M개로 유지하여 일반 집과 M개의 치킨 집까지의 가장 적은 거리를 .<br>
