@@ -62,3 +62,6 @@ N개의 도시와 M개의 거리가 1인 단방향 도로가 존재. 도시 X에
 
 [4. 괄호 변환](./parenthesis.py)<br>
 [링크 참조!](https://programmers.co.kr/learn/courses/30/lessons/60058)<br>
+
+[5. 연산자 끼워 넣기](./)<br>
+연산자가 주어졌을 때 해당 연산자를 이용해서 만들 수 있는 최소, 최대값을 구하시오.<br>
