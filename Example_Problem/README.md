@@ -1,7 +1,8 @@
 # 목차
  * [Greedy](./README.md#greedy)<br>
  * [Implementation](./README.md#implementation)<br>
- * [DFS/BFS](./README.md#dfsbfs)
+ * [DFS/BFS](./README.md#dfsbfs)<br>
+ * [Sort](./README.md#sort)<br>
 
 ## Greedy
 [1. 모험가 길드](./adventure.py)<br>
@@ -78,3 +79,5 @@ N개의 도시와 M개의 거리가 1인 단방향 도로가 존재. 도시 X에
 
 [8. 블록 이동하기](./block.py)<br>
 [링크 참조!](https://programmers.co.kr/learn/courses/30/lessons/60063)<br>
+
+## Sort
