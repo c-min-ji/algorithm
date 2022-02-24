@@ -9,6 +9,8 @@
 7. [Dynamic Programming](#7-dynamic-programming)
 8. [Etc Graph](#8-etc-graph)
 9. [Example Problem](#9-example-problem)
+10. [Other Site](#10-other-site)
+
 
 ## 1. Git commit voca. 
 
@@ -57,3 +59,7 @@
 
 [Example Problem Info.](./Example_Problem/README.md)<br>
 
+
+## 10. Other Site
+
+[Other Site Info.](./Other_Site/README.md)<br>
