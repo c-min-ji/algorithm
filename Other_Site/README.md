@@ -30,3 +30,7 @@ dy = [0, -1, 0, 1]
 [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
 
 ### SQL
+1. 테이블 만들기
+2. 테이블 삽입(insert into)
+3. 테이블 수정(update)
+4. 테이블 삭제
