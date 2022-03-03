@@ -2,7 +2,7 @@
 
 ### Novice Low
 
-1. [].()
+1. 
 
 ### Novice Mid
 
@@ -33,4 +33,8 @@ dy = [0, -1, 0, 1]
 1. 테이블 만들기
 2. 테이블 삽입(insert into)
 3. 테이블 수정(update)
-4. 테이블 삭제
+4. 테이블 삭제(delete)
+5. 테이블 JOIN
+![image](https://user-images.githubusercontent.com/59816464/156480048-f96d1eb2-411a-4d83-aca2-9a1f94ad1d54.png)
+
+
