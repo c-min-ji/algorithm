@@ -2,7 +2,7 @@
 
 1. [Git commit Voca.](#1-git-commit-voca.)
 2. [Greedy](./Greedy/README.md)
-3. [Implementation](#3-implementation)
+3. [Implementation](./Implementation/README.md)
 4. [DFS/BFS](#4-dfsbfs)
 5. [Sorting](#5-sorting)
 6. [Binary Search](#6-binary-search)
