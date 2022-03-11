@@ -107,7 +107,7 @@ __*POINT*__<br>
 > 만약 현재 지점 기준 방문하지 않았다면 1로 방문 처리 후 재귀를 통해 주변에 방문하지 않은 곳을 방문해 True를 return한다. 만약 범위를 넘어가면 False를 return한다.<br>
 
 #### __프로그래머스 문제__<br>
-> __[네트워크]__(https://programmers.co.kr/learn/courses/30/lessons/43162
+> __[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)__
 
 -----
 
