@@ -4,7 +4,7 @@
 2. [Greedy](./Greedy/README.md)
 3. [Implementation](./Implementation/README.md)
 4. [DFS/BFS](./DFS_BFS/README.md)
-5. [Sorting](#5-sorting)
+5. [Sorting](./Sorting/README.md)
 6. [Binary Search](#6-binary-search)
 7. [Dynamic Programming](#7-dynamic-programming)
 8. [Etc Graph](#8-etc-graph)
