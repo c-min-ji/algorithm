@@ -5,7 +5,7 @@
 3. [Implementation](./Implementation/README.md)
 4. [DFS/BFS](./DFS_BFS/README.md)
 5. [Sorting](./Sorting/README.md)
-6. [Binary Search](#6-binary-search)
+6. [Binary Search](./Binary_Search/README.md)
 7. [Dynamic Programming](#7-dynamic-programming)
 8. [Etc Graph](#8-etc-graph)
 9. [Example Problem](#9-example-problem)
@@ -18,31 +18,6 @@
 2. 파일 업데이트: Update<br>
 3. 파일 삭제: Delete<br>
 4. 파일 제목 수정: Rename<br>
-
-
-## 2. Greedy
-
-[Greedy Info.](./Greedy/README.md)<br>
-
-
-## 3. Implementation
-
-[Implementation Info.](./Implementation/README.md)<br>
-
-
-## 4. DFS/BFS
-
-[DFS/BFS Info.](./DFS_BFS/README.md)<br>
-
-
-## 5. Sorting
-
-[Sorting Info.](./Sorting/README.md)<br>
-
-
-## 6. Binary Search
-
-[Binary Search Info.](./Binary_Search/README.md)<br>
 
 
 ## 7. Dynamic Programming
