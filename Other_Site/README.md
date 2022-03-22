@@ -2,8 +2,6 @@
 
 ### Novice Low
 
-1. 
-
 ### Novice Mid
 
 1. [함수]()
