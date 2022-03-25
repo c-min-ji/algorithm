@@ -8,7 +8,7 @@
 * [Dynamic Programming](./Dynamic_Programming/README.md)
 * [Etc Graph](./Etc_Graph/README.md)
 * [Example Problem](./Example_Problem/README.md)
-* ⚠[Other Site](./Other_Site/README.md)
+* [Other Site](./Other_Site/README.md)
 
 
 ## Git commit voca. 
