@@ -11,7 +11,7 @@
 * [Other Site](./Other_Site/README.md)
 
 
-## Git commit voca. 
+## Git commit voca.
 
 * 새로운 파일 생성: Create<br>
 * 파일 업데이트: Update<br>
